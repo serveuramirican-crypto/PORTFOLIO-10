@@ -1,0 +1,1 @@
+var M=(M=>(M.Combined="COMBINED",M.CombinedMerchantManaged="COMBINED_MERCHANT_MANAGED",M.Merchant="MERCHANT",M.MerchantManaged="MERCHANT_MANAGED",M.None="NONE",M.Shop="SHOP",M))(M||{});export{M as C};
